@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Conheça mais sobre Gabriel Reis, desenvolvedor Front-End"/>
+  <title>Quem eu sou | Gabriel Reis</title>
+  <link rel="stylesheet" href="css/style.css"/>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <a href="index.html" class="logo">Gabriel Reis</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="sobre.html">Quem eu sou</a></li>
+        <li><a href="projetos.html">Meus Projetos</a></li>
+        <li><a href="contato.html">Onde me encontrar</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="sobre">
+    <section class="perfil">
+      <img src="img/foto-perfil.jpg" alt="Foto de Gabriel Reis" width="200">
+      <h1>Quem sou eu?</h1>
+      <p>Me chamo Gabriel Reis, sou estudante de desenvolvimento Front-End com grande interesse por tecnologia, design responsivo e experiências interativas. Tenho conhecimento em HTML, CSS, JavaScript, jQuery e Bootstrap, e gosto de construir sites que sejam bonitos, acessíveis e funcionais em qualquer dispositivo.</p>
+      <p>Além da tecnologia, também curto futebol, música e ir na academia.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Gabriel Reis. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
